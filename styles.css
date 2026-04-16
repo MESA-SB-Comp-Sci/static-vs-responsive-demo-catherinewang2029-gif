@@ -38,6 +38,29 @@ p {
 
 /* Compleate challenge down here */
 
+.size{
+  display: inline-block;
+  width: 24vw;
+  height: 50vh;
+}
 
+.background-color-yellow{
+  background-color: orange;
+}
 
+.background-color-green{
+  background-color: purple;
+}
 
+.background-color-blue{
+  background-color: pink;
+}
+
+.background-color-red{
+  background-color: black;
+}
+
+p{
+  font-size: 1rem;
+  color:white;
+}
